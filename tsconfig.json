@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "target": "es2015", // Specify the target ECMAScript version
+    "lib": ["es2015", "dom"], // Include necessary libraries, including 'dom' for Map
+    "outDir": "./dist", // Output directory for compiled files
+    "strict": true // Enable strict mode
+  }
+}
